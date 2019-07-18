@@ -5,7 +5,7 @@ Flutter tutorial explaining to create a fitness application UI incorporating use
 
 # Screenshots
 ![fitness app](https://i.ibb.co/jGqVGJx/Dribbble.png)
-![fitness app](https://i.ibb.co/c127XWx/Dashboard-3x.png)
+![fitness app](https://i.ibb.co/HgJwN65/Group-23.png)
 ![fitness app](https://i.ibb.co/JC8qppZ/Welcome-3x.png)
 
 # Youtube
